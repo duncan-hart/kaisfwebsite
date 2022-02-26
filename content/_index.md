@@ -1,6 +1,6 @@
 ---
 title: Home
-date: 2020-03-22
+date: 2022-02-26
 description: "Kidderminster Aid in Sickness Fund (KAiSF)"
 sections:
 - template: hero
