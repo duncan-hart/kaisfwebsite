@@ -1,0 +1,31 @@
+---
+disableDarkMode: true 
+logo:
+  text:  
+  showLogoTextOnDesktop: true
+  showLogoTextOnMobile: true
+  showLogoImageOnDesktop: true
+  showLogoImageOnMobile: true
+  logoDesktop: "images/logo/kaisflogo.jpg"
+  logoDesktopDarkMode: "images/logo/logo-invert.svg"
+  logoMobile: "images/logo/logo-mobile.svg"
+  logoMobileDarkMode: "images/logo/logo-invert-mobile.svg"
+  logoDesktopHeight: 100
+  logoMobileHeight: 32
+header:
+  headerFixed: false
+  headerHeight: '100px' # recommended "60px" - updates a SCSS variable so requires restarting hugo server
+  disableHamburgerMenu: false
+footer:
+  title: "Kidderminster Aid in Sickness Fund (KAiSF)"
+  description: "As of 1 February 2022 KAiSF is no longer administered by MFG Solicitors. Please direct all enquiries to support@kaisf.org.uk"
+  copyrightText: "Registered Charity in England & Wales (No. 210586)"
+  copyrightLink: "https://register-of-charities.charitycommission.gov.uk/charity-search/-/charity-details/210586"
+  copyrightShow: true
+  showSocialMediaIcons: false
+  footerMenuPrimaryHeading: "Policies"
+  showPrimaryFooterMenu: false
+  footerMenuSecondaryHeading: "Page Examples"
+  showSecondaryFooterMenu: false
+  footerMenuThirdHeading: "Other"
+  showThirdFooterMenu: false

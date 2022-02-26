@@ -1,0 +1,93 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "KIDDERMINSTER AID IN SICKNESS FUND (KAiSF)"
+theme = "hugo-paradigm"
+enableGitInfo = false
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+pygmentsUseClasses = true
+metaDataFormat = "yaml"
+paginate = 6
+
+[privacy]
+  [privacy.disqus]
+    disable = false
+  [privacy.googleAnalytics]
+    anonymizeIP = false
+    disable = false
+    respectDoNotTrack = false
+    useSessionStorage = false
+  [privacy.instagram]
+    disable = false
+    simple = false
+  [privacy.twitter]
+    disable = false
+    enableDNT = false
+    simple = false
+  [privacy.vimeo]
+    disable = false
+    enableDNT = false
+    simple = false
+  [privacy.youtube]
+    disable = false
+    privacyEnhanced = false
+
+[permalinks]
+    post = "/:year/:month/:title/"
+
+[taxonomies]
+    tag = "tags"
+    category = "categories"
+    work =  "works"
+    author = "authors"
+  
+# Main Menu
+[[menu.main]]
+    name = "Eligibility to apply"
+    url = "/eligibility-1/"
+    weight = 2
+
+[[menu.main]]
+    name = "Testimonials"
+    url = "/testimonials-1/"
+    weight = 4
+
+[[menu.main]]
+    name = "Contact"
+    url = "/contact-1/"
+    weight = 5
+
+
+# Footer Menu Primary
+[[menu.footer_primary]]
+	name = "Policies"
+	url = "/"
+        weight = 1
+[[menu.footer_primary]]
+    name = "Privacy"
+    url = "/privacy/"
+    weight = 2
+[[menu.footer_primary]]
+    name = "Terms & Conditions"
+    url = "/terms/"
+    weight = 3
+
+[[menu.footer_primary]]
+    name = "Accessibility"
+    url = "/accesibility/"
+    weight = 4
+
+# Footer Menu Secondary
+[[menu.footer_secondary]]
+    name = "Custom Page 1"
+    url = "/custom-page-1/"
+    weight = 1
+
+[[menu.footer_secondary]]
+    name = "Custom Page 2"
+    url = "/custom-page-2/"
+    weight = 2
+[[menu.footer_secondary]]
+    name = "Custom Page 3"
+    url = "/custom-page-3/"
+    weight = 3

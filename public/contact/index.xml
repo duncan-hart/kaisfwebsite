@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contacts on KIDDERMINSTER AID IN SICKNESS FUND (KAiSF)</title>
+    <link>/contact/</link>
+    <description>Recent content in Contacts on KIDDERMINSTER AID IN SICKNESS FUND (KAiSF)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Mar 2020 04:52:18 +0000</lastBuildDate><atom:link href="/contact/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact us</title>
+      <link>/contact-1/</link>
+      <pubDate>Sun, 01 Mar 2020 04:52:18 +0000</pubDate>
+      
+      <guid>/contact-1/</guid>
+      <description>Kidderminster Aid in Sickness Fund (KAiSF)
+Email: Support@KAiSF.org.uk</description>
+    </item>
+    
+  </channel>
+</rss>
